@@ -1,7 +1,7 @@
 ---
 title: "Project_step_05: Communication"
 author: "Lin Wang"
-format: html
+format: pdf
 ---
 
 ## Assessment
